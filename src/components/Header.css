@@ -1,0 +1,25 @@
+.header {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 13px 16px 13px 16px;
+}
+
+.Header-logo {
+  display: flex;
+  align-items: center;
+}
+
+.Logo {
+  margin: auto 0;
+  width: 50px;
+}
+
+.Logo-title {
+  display: inline-block;
+}
+
+.Header-nav-usrs {
+  margin-right: 10px;
+}

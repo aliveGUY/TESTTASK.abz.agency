@@ -1,0 +1,54 @@
+.team {
+  padding: 16px;
+}
+
+.team h1 {
+  text-align: center;
+}
+
+.cards-wrapper {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+.card {
+  float: left;
+  text-align: center;
+  padding: 10px;
+  background-color: #fff;
+  aspect-ratio: 2/1;
+  width: 300px;
+  border-radius: 20px;
+  margin: 10px auto;
+}
+
+.avatar {
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.card p {
+  margin: 0;
+  line-height: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.Team-btn {
+  clear: both;
+  display: block;
+  margin: 10px auto;
+}
+
+@media screen and (min-width: 800px) {
+  .cards-wrapper {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .cards-wrapper {
+    grid-template-columns: auto auto auto;
+  }
+}

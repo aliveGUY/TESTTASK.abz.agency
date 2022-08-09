@@ -1,0 +1,12 @@
+.headline {
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 8vh 16px 12vh 16px;
+}
+
+.headline-text {
+  max-width: 380px;
+  margin: 0 auto 30px auto;
+}

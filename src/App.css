@@ -1,0 +1,44 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background-color: #f3f3f3;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 26px;
+}
+
+button {
+  background-color: #f4e041;
+  color: black;
+  border: none;
+  border-radius: 100px;
+  padding: 4px 23px 4px 23px;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+button:hover {
+  background-color: #ffe302;
+}
+
+button:disabled {
+  background-color: gray;
+  color: #fff;
+}

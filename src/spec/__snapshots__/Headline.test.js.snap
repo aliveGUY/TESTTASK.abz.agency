@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders headline 1`] = `
+<div
+  className="headline"
+  style={
+    Object {
+      "backgroundImage": "url(wheet_field.png)",
+    }
+  }
+>
+  <h1
+    className="headline-text"
+  >
+    Test assignment for front-end developer
+  </h1>
+  <p
+    className="headline-text"
+  >
+    What defines a good front-end developer is one that has skilled knowledge of HTML, CSS, JS with a vast understanding of User design thinking as they\`ll be building web interfaces with accessibility in mind. They should also be excited to learn, as the world of Front-End Development keeps evolving.
+  </p>
+  <button
+    className="Header-nav-usrs"
+    type="button"
+  >
+    Sign up
+  </button>
+</div>
+`;

@@ -1,0 +1,63 @@
+.form {
+  padding: 16px;
+  display: table;
+  max-width: 380px;
+  margin: 0 auto;
+}
+
+form {
+  max-width: calc(100vw - 32px);
+}
+
+.text-inpt {
+  margin-bottom: 20px;
+  background-color: #f3f3f3;
+  padding: 15px;
+  border: 1px grey solid;
+  border-radius: 5px;
+  width: 100%;
+}
+
+#custom-button {
+  border: 1px solid #000;
+  border-radius: 5px 0 0 5px;
+  background-color: #f3f3f3;
+  padding: 10px;
+  line-height: 23px;
+}
+
+.format {
+  font-size: 12px;
+  color: red;
+  padding-left: 20px;
+}
+
+#radio-title {
+  margin: 0 0 0 0;
+}
+
+.file-input {
+  margin-top: 30px;
+  width: 100%;
+  padding: 0;
+  border-radius: 5px;
+  color: rgb(158, 158, 158);
+  border: 1px solid rgb(158, 158, 158);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#custom-text {
+  padding: 5px 0 5px 15px;
+}
+
+.form-btn {
+  display: block;
+  margin: 40px auto 50px auto;
+}
+
+.error {
+  margin-bottom: 0;
+  border: 1px solid red !important;
+}

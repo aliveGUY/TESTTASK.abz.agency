@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74556085.css",
+    "main.js": "/static/js/main.69c139bd.js",
+    "static/js/787.ecb27c11.chunk.js": "/static/js/787.ecb27c11.chunk.js",
+    "static/media/wheet_field.png": "/static/media/wheet_field.827be205d1bc9668d171.png",
+    "static/media/cat_logo.svg": "/static/media/cat_logo.55a5a4157cd90cc6d82fbc5d1c2a080b.svg",
+    "index.html": "/index.html",
+    "main.74556085.css.map": "/static/css/main.74556085.css.map",
+    "main.69c139bd.js.map": "/static/js/main.69c139bd.js.map",
+    "787.ecb27c11.chunk.js.map": "/static/js/787.ecb27c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74556085.css",
+    "static/js/main.69c139bd.js"
+  ]
+}
